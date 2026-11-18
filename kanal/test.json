@@ -1,4 +1,4 @@
 {
- "manifest": "{\n \"format\": 1,\n \"version\": \"1.2.0\",\n \"schema\": 6,\n \"commit\": \"0b24038\",\n \"datei\": \"FMN-Faktura-1.2.0-0b24038.zip\",\n \"url\": \"https://github.com/LukasBommlerMicrostep/FMN-Releases/releases/download/v1.2.0/FMN-Faktura-1.2.0-0b24038.zip\",\n \"groesse\": 92023974,\n \"sha256\": \"d20a17d1ed93cf0bfafd45d53af88421180124b36ad015319deab4de266ded60\",\n \"aenderungen\": \"Updates: Das Programm sucht beim Start nach neuen Versionen\\nRetoure mit Retourenschein\\nPaketgröße je Fliese auf dem Herrichtzettel\\nKundendaten aus dem Beleg in den Stamm übernehmen\",\n \"datum\": \"2026-11-08\"\n}",
- "signatur": "JgjY/oWPcRa6cij3P5dq3yPX19nrOZXmJzxxOOju8BKs2M+PuZHtZiTqG66OMU+DbxtlQhSjun6lYfGWDt88Dw=="
+ "manifest": "{\n \"format\": 1,\n \"version\": \"1.2.1\",\n \"schema\": 6,\n \"commit\": \"cde2809\",\n \"datei\": \"FMN-Faktura-1.2.1-cde2809.zip\",\n \"url\": \"https://github.com/LukasBommlerMicrostep/FMN-Releases/releases/download/v1.2.1/FMN-Faktura-1.2.1-cde2809.zip\",\n \"groesse\": 92024209,\n \"sha256\": \"72fbd87e62c98c3f4c7b383b2b77a4dd987b1d6bc4ef4919ee01f089a684a81b\",\n \"aenderungen\": \"Erstes automatisches Update, keine inhaltlichen Änderungen.\",\n \"datum\": \"2026-11-18\"\n}",
+ "signatur": "iDVerahx6C6v9AcoXJ/ucihNa5dsNOO30rY8jEvM8Z1gmNI7vkn5Ssyl7hZC1QE8X+8td6h0J20Hs0jg2rGJCg=="
 }
