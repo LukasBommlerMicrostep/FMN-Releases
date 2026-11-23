@@ -1,4 +1,4 @@
 {
- "manifest": "{\n \"format\": 1,\n \"version\": \"1.2.1\",\n \"schema\": 6,\n \"commit\": \"cde2809\",\n \"datei\": \"FMN-Faktura-1.2.1-cde2809.zip\",\n \"url\": \"https://github.com/LukasBommlerMicrostep/FMN-Releases/releases/download/v1.2.1/FMN-Faktura-1.2.1-cde2809.zip\",\n \"groesse\": 92024209,\n \"sha256\": \"72fbd87e62c98c3f4c7b383b2b77a4dd987b1d6bc4ef4919ee01f089a684a81b\",\n \"aenderungen\": \"Erstes automatisches Update, keine inhaltlichen Änderungen.\",\n \"datum\": \"2026-11-18\"\n}",
- "signatur": "iDVerahx6C6v9AcoXJ/ucihNa5dsNOO30rY8jEvM8Z1gmNI7vkn5Ssyl7hZC1QE8X+8td6h0J20Hs0jg2rGJCg=="
+ "manifest": "{\n \"format\": 1,\n \"version\": \"1.2.2\",\n \"schema\": 7,\n \"commit\": \"6041c23\",\n \"datei\": \"FMN-Faktura-1.2.2-6041c23.zip\",\n \"url\": \"https://github.com/LukasBommlerMicrostep/FMN-Releases/releases/download/v1.2.2/FMN-Faktura-1.2.2-6041c23.zip\",\n \"groesse\": 88845586,\n \"sha256\": \"97b910f732937502ffe0ab51255678724a447ec0cb181e38223b0fbb28e89901\",\n \"aenderungen\": \"Rabatt je Position: Spalte\",\n \"datum\": \"2026-11-23\"\n}",
+ "signatur": "hlQSFBfhhjKl7ltcyCgI5IsKQeel9Q9AOAoquZQpjXTuRPyYGLr//K8dBTP67+pPvaqJeDCXMGtfuEVEIhiYBA=="
 }
