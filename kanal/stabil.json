@@ -1,4 +1,4 @@
 {
- "manifest": "{\n \"format\": 1,\n \"version\": \"1.2.2\",\n \"schema\": 7,\n \"commit\": \"6041c23\",\n \"datei\": \"FMN-Faktura-1.2.2-6041c23.zip\",\n \"url\": \"https://github.com/LukasBommlerMicrostep/FMN-Releases/releases/download/v1.2.2/FMN-Faktura-1.2.2-6041c23.zip\",\n \"groesse\": 88845586,\n \"sha256\": \"97b910f732937502ffe0ab51255678724a447ec0cb181e38223b0fbb28e89901\",\n \"aenderungen\": \"Rabatt je Position: Spalte\",\n \"datum\": \"2026-11-23\"\n}",
- "signatur": "hlQSFBfhhjKl7ltcyCgI5IsKQeel9Q9AOAoquZQpjXTuRPyYGLr//K8dBTP67+pPvaqJeDCXMGtfuEVEIhiYBA=="
+ "manifest": "{\n \"format\": 1,\n \"version\": \"1.2.4\",\n \"schema\": 8,\n \"commit\": \"9bcc503\",\n \"datei\": \"FMN-Faktura-1.2.4-9bcc503.zip\",\n \"url\": \"https://github.com/LukasBommlerMicrostep/FMN-Releases/releases/download/v1.2.4/FMN-Faktura-1.2.4-9bcc503.zip\",\n \"groesse\": 88925364,\n \"sha256\": \"b6c8fde44c78e8e4cc975747d354301ce285fb17ed91f6224455799a9d405887\",\n \"aenderungen\": \"Listen zeigen Änderungen anderer Arbeitsplätze von selbst\\nBelege nach Datum sortiert\\nRechnungsentwürfe lassen sich löschen und heißen Rechnungsentwurf\\nUpdates laden zuverlässiger herunter\",\n \"datum\": \"2026-11-28\"\n}",
+ "signatur": "UiCjd8jAbSouMwc8Bg3xPQDxUGytwNYCWXJnFJOVizPpJTWuEMWFwZNVFX0Qhl5wc0o2TdleQdwyh/LQM6VCDw=="
 }
